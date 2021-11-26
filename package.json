@@ -1,0 +1,23 @@
+{
+  "name": "avengers-assemble",
+  "version": "1.0.0",
+  "description": "Tugas Sprint 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/ghozizufar/avengers-assemble.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/ghozizufar/avengers-assemble/issues"
+  },
+  "homepage": "https://gitlab.com/ghozizufar/avengers-assemble#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0"
+  }
+}
